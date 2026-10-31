@@ -1,0 +1,9 @@
+@echo off
+CLS
+CD\
+prompt $P$G
+mode lpt1:80,6
+PATH A:\DOS;A:\;A:\BATCH
+A:\DOS\COLORSET 30
+ms
+
